@@ -37,4 +37,4 @@ Documentação disponível na pasta '/docs'.
 - Mac Address Randomization
 
 # Topologia de Rede
-- Topologia em Estrela (diagramas/topologia_lab1.png)
+- [Topologia em Estrela](diagrama/topologia_lab1.png)
