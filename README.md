@@ -35,3 +35,6 @@ Documentação disponível na pasta '/docs'.
 - ARP
 - Descoberta ativa e passiva
 - Mac Address Randomization
+
+# Topologia de Rede
+- Topologia em Estrela (diagramas/topologia_lab1.png)
